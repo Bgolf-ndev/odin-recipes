@@ -1,0 +1,40 @@
+* {
+    font-family: sans-serif, "Times New Roman", Times;
+    text-align: center;
+}
+
+.topic {
+    color:green;
+    background-color: azure;
+ }
+
+.list-of-recipes {
+    background-color:rgb(205, 74, 225);
+    font-size:40px;
+    font-weight: bold;
+}
+
+.recipe-name {
+    background-color: greenyellow;
+    font-size:30px;
+    font-weight: 100;
+}
+.describe-food {
+    background-color: rgb(127, 127, 255);
+}   
+
+.ingredients ,.ingredients li {
+    text-align:left;
+}
+
+.steps ,.steps li  {
+    text-align:left;
+}
+
+.ingredients {
+    background-color: skyblue;
+}
+
+.steps{
+    background-color: burlywood;
+}
