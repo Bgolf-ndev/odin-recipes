@@ -1,23 +1,31 @@
 * {
     font-family: sans-serif, "Times New Roman", Times;
     text-align: center;
+    box-sizing: border-box;
 }
 
 .topic {
     color:green;
     background-color: azure;
+    height: 300px;
+    font-size: 100px;
+    padding: 50px;
+    align-content: center;
  }
 
 .list-of-recipes {
-    background-color:rgb(205, 74, 225);
     font-size:40px;
     font-weight: bold;
+    margin: 50px;
+    
+    text-align: left;
 }
 
 .recipe-name {
-    background-color: greenyellow;
     font-size:30px;
     font-weight: 100;
+    padding-top: 30px;
+    text-align: left;
 }
 .describe-food {
     background-color: rgb(127, 127, 255);
